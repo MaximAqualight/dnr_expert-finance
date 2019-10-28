@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "КПК «Эксперт Финанс»",
+    "name": "КПК «Эксперт Финанс» ДНР",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -57,7 +57,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "КПК «Эксперт Финанс»",
+        "title": "КПК «Эксперт Финанс» ДНР",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
