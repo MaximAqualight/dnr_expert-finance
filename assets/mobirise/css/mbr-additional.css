@@ -710,13 +710,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rFPRPccdQJ .navbar {
-  background: #ffffff;
+  background: #9f9f9f;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rFPRPccdQJ .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #9f9f9f;
 }
 .cid-rFPRPccdQJ a {
   font-style: normal;
@@ -807,7 +807,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rFPRPccdQJ .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #9f9f9f;
   display: none;
   position: absolute;
   min-width: 5rem;
